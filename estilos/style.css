@@ -1,0 +1,18 @@
+*{
+    margin: 0PX;
+    padding: 0PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body, html{
+    width: 100vw;
+    height: 100vh;
+    background-color: #233eff;
+    background-size: contain;
+}
+
+h1{
+    color: white;
+    text-shadow: 3px 3px 0px #1526a7;
+    padding: 10px;
+}
